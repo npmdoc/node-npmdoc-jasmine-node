@@ -1,4 +1,7 @@
-# api documentation for  [jasmine-node (v1.14.5)](https://github.com/mhevery/jasmine-node)  [![npm package](https://img.shields.io/npm/v/npmdoc-jasmine-node.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jasmine-node) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jasmine-node.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jasmine-node)
+# npmdoc-jasmine-node
+
+#### basic api documentation for  [jasmine-node (v1.14.5)](https://github.com/mhevery/jasmine-node)  [![npm package](https://img.shields.io/npm/v/npmdoc-jasmine-node.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jasmine-node) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jasmine-node.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jasmine-node)
+
 #### DOM-less simple JavaScript BDD testing framework for Node
 
 [![NPM](https://nodei.co/npm/jasmine-node.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jasmine-node)
